@@ -1,6 +1,10 @@
 # Taller-2
 
-## Amenazas para base de datos Oracle 12.2
+## Vulnerabilidades identificadas por CVE
+
+Identificación de vulnerabilidades conocidas por CVE para el motor de base datos Oracle 12.2 [CVE Oracle 12.2](https://github.com/pepachon/Taller-2/blob/Branch-Taller2/Oracle%20Database%20version%2012.2.0.1%20_%20Security%20vulnerabilities.pdf)
+
+## Amenazas identificadas en fuentes para base de datos Oracle 12.2
 
 ### Fuente 1 - Paloalto Networks
 
