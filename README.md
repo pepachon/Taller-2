@@ -19,3 +19,23 @@ Identificación de vulnerabilidad para la versión del motor de base datos:
 ### Fuente 2 IBM X-Force
 
 Identificación de un reporte de vulnerabilidades para la versión del motor de base datos [Reporte IBM X-Force](https://github.com/pepachon/Taller-2/blob/master/X-Force-IBM_Vulnerabilities_Oracle_12_2_0_1.pdf)
+
+### Fuente 3 - Alienvault
+
+Identificación de tendencia de amenazas del sitio https://otx.alienvault.com
+
+![GitHub Fuente1](./Alien0.PNG)
+
+
+Identificación de pulse relacionado con Oralce
+
+![GitHub Fuente1](./Alien1.PNG)
+
+
+Identificación de amenaza especifica por CVE para Oracle
+
+![GitHub Fuente1](./Alien.PNG)
+
+### Fuente 4 SANS
+
+Identificación de un reporte de vulnerabilidades para la versión del motor de base datos [SANS](https://github.com/pepachon/Taller-2/blob/Branch-Taller2/Search%20-%20SANS%20Internet%20Storm%20Center.pdf)
